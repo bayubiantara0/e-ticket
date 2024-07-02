@@ -1,8 +1,8 @@
 username admin : admin@admin.com
 password       : admin123
 
-akses publik :
-akses admin :
+akses publik : http://127.0.0.1:8000/
+akses admin :http://127.0.0.1:8000/login
 
 step :
 1. git clone https://github.com/bayubiantara0/e-ticket.git
