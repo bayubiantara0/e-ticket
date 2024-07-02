@@ -1,2 +1,12 @@
 username admin : admin@admin.com
 password       : admin123
+
+akses publik :
+akses admin :
+
+step :
+1. git clone https://github.com/bayubiantara0/e-ticket.git
+2. composer install
+3. npm install
+4. php artisan serve
+5. npm run dev
